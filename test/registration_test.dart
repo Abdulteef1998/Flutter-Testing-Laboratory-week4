@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_test_laporty/registration/cubit/registration_cubit.dart';
-import 'package:flutter_test_laporty/registration/presentation/registration_form.dart';
+import 'package:flutter_test_laporty/features/registration/cubit/registration_cubit.dart';
+import 'package:flutter_test_laporty/features/registration/presentation/registration_form.dart';
 
 void main() {
   testWidgets('Registration form shows errors on empty submission', (

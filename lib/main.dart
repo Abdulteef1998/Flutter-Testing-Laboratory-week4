@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_test_laporty/registration/presentation/registration_form.dart';
+import 'package:flutter_test_laporty/features/registration/presentation/registration_form.dart';
 
 void main() {
   runApp(const MyApp());

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_test_laporty/registration/cubit/registration_cubit.dart';
+import 'package:flutter_test_laporty/features/registration/cubit/registration_cubit.dart';
 
 class RegistrationForm extends StatelessWidget {
   const RegistrationForm({super.key});
